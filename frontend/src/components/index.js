@@ -1,0 +1,12 @@
+export { default as Login } from "./AuthPage/Login";
+export { default as Register } from "./AuthPage/Register";
+export { default as ResetPass } from "./AuthPage/ResetPass";
+export { default as SetPass } from "./AuthPage/SetPass";
+export { default as Home } from "./Home/Home";
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as Timer } from "./Timer/Timer";
+export { default as Tasks } from "./Tasks/Tasks";
+export { default as Loader } from "./Loader/Loader";
+export { default as TaskItem } from "./Tasks/TaskItem";
+export { default as AddTask } from "./Tasks/AddTask";
+export { default as Settings } from "./Home/Settings";
